@@ -1,0 +1,7 @@
+
+Heart failure is one of the major causes of mortality in the world today. Heart failure is a condition in which the heart can't pump enough blood to meet the body's needs. Heart failure does not mean that your heart has stopped or is about to stop working. It means that your heart is not able to pump blood the way it should. It can affect one or both sides of the heart.
+
+Prediction of cardiovascular disease is a critical challenge in the field of clinical data analysis. With the advanced development in machine learning (ML), artificial intelligence (AI) and data science, it is proved to be effective in assisting in decision making and predictions from the large quantity of data produced by the healthcare industry. ML approaches have brought a lot of improvements and broadened the study in the medical field which recognizes patterns in the human body by using various algorithms and correlation techniques. There are many features/factors that lead to heart failure like age, blood pressure, sodium creatinine, ejection fraction etc.
+In this project, a method to identify important features is proposed by applying machine learning techniques.
+
+The work is to design and develop prediction of heart disease by feature ranking machine learning. Hence ML has a huge impact in saving lives and helping the doctors, widening the scope of research in actionable insights, drive complex decisions and to create innovative products for businesses to achieve key goals.
